@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="proj.css"?>
+<project-mem>
+<title>Team DDLJ</title>
+<member class="leader">
+    <role></role>
+    <name >
+    <new>Ayush Patil</new></name>
+    <rno >5</rno>
+    <Expertise >Frontend</Expertise>
+    <cgpa >9.5</cgpa>
+</member>
+
+
+<member>
+<name>Pratham</name>
+<rno>6</rno>
+<Expertise>Backend</Expertise>
+<cgpa>8.0</cgpa>
+</member>
+<member>
+<name>Pratik</name>
+<rno>4</rno>
+<Expertise>Frontend</Expertise>
+<cgpa>9.0</cgpa>
+</member>
+
+<member>
+<name>malhar Shinde</name>
+<rno>2</rno>
+<Expertise>Frontend</Expertise>
+<cgpa>8.0</cgpa>
+</member>
+
+</project-mem>

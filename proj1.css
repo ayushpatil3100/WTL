@@ -1,0 +1,47 @@
+project-mem{
+    color:rgb(59, 7, 85);
+    background-color: rgb(255, 103, 27);
+
+}
+title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 40px;
+    display: block;
+}
+member{
+    color:black;
+    display: block;
+    background-color: blanchedalmond;
+    margin: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+  
+     
+}
+
+name{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 40px;
+    display: block;
+}
+rno{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    display: block;
+}
+Expertise{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    display: block;
+}
+cgpa{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    display: block;
+}

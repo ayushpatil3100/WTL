@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl-style.xsl"?>
+<students>
+    <student>
+        <name>Phul patil</name>
+        <age>21</age>
+        <course>Computer Science</course>
+    </student>
+    <student>
+        <name>AyuPatil</name>
+        <age>22</age>
+        <course>Data Science</course>
+    </student>
+    <student>
+        <name>Sawant Pru</name>
+        <age>22</age>
+        <course>Data Science</course>
+    </student>
+</students>

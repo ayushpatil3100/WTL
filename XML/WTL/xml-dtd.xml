@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "structure.dtd">
+<employees>
+    <employee>
+        <name>Ayush</name>
+        <id>101</id>
+        <position>dev</position>
+    </employee>
+    <employee>
+        <name>pruthvi</name>
+        <id>102</id>
+        <position>Developer</position>
+    </employee>
+</employees>    

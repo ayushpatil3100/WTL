@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="student.xsl"?>
+<students>
+    <student>
+        <name>Ayush</name>
+        <age>21</age>
+        <score>75</score>
+    </student>
+    <student>
+        <name>Aditya</name>
+        <age>21</age>
+        <score>45</score>
+    </student>
+    <student>
+        <name>Abhis</name>
+        <age>21</age>
+        <score>88</score>
+    </student>
+    <student>
+        <name>Snajay</name>
+        <age>21</age>
+        <score>33</score>
+    </student>
+</students>

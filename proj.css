@@ -1,0 +1,94 @@
+project-mem{
+    color:rgb(59, 7, 85);
+    background-color: rgb(255, 103, 27);
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    justify-content: center ;
+    align-items: center;
+}
+title{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 40px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 50px;
+    background-color: aliceblue;    
+    display: inline-block;
+    margin: 20px;
+    width: fit-content;
+    padding: 20px;
+}
+member{
+    color:black;
+    display: block;
+    margin-bottom: 20px;
+    background-color: blanchedalmond;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    width: 40%;
+    
+}
+member:hover{
+    transform: scale(1.2);
+    transition: 0.7s;
+    border:1px solid blue;
+    -webkit-box-shadow: 10px 10px 36px 20px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 36px 20px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 36px 20px rgba(0,0,0,0.75);
+    transform: 2s ease-in-out;
+}
+name{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 40px;
+    display: block;
+}
+rno{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    display: none;
+}
+Expertise{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    display: none;
+}
+cgpa{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+    display: none;
+}
+new{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
+member[class="leader"]{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+member:hover{
+    cgpa{
+        display: block;
+    }
+    Expertise{
+        display: block;
+    }
+    rno{
+        display: block;
+    }
+}
+/* member[class="Leader"]:hover{
+    transform: scale(1.5); */
+/* } */

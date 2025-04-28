@@ -1,0 +1,72 @@
+/* books {
+    display: block;
+    font-family: Arial, sans-serif;
+}
+
+book {
+    display: block;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+title {
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+
+author {
+    font-style: italic;
+    color: darkgray;
+}
+ */
+
+group{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    align-items: stretch;
+    padding: 20px;
+}
+leader{
+    background-color: yellow;
+    font-size: 20px;
+    display: block;
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+    width: 50%;
+}
+leader:hover{
+    scale: 105%;
+    role{
+        display: block;
+    }
+}
+members{
+    border: 1px solid blue;
+    border-radius: 5px;
+    width: 50%;
+}
+member{
+    display: block;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #bababa;
+}
+member:hover{
+    /* scale: 105%; */
+    background-color: #e0e0e0;
+    role{
+        display: block;
+    }
+}
+role{
+    display: none;
+}
+title{
+    font-size: 20px;
+    font-weight: 600;
+}
